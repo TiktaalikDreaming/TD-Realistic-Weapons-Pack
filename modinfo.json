@@ -1,18 +1,18 @@
 {
 	"name": "TiktaalikDreamings Realistic Weapon Pack",
 	"description": "Intended to add some vaguely more realistic weapons from history instead of the very fantasy cliche things in the game.  \n\nA list of Items is here https://drive.google.com/file/d/1ZiykgA4npQV8E5ynbByaZqwU-8l45EgR/view?usp=sharing\n\nMod discord here https://discord.gg/XEUZxZRVF9",
-	"changeNote": "Early Stages on adding Hyrkanian Weapons, sabre and bow.",
+	"changeNote": "Hyrkanian Weapons, sabre and bow.",
 	"author": "Tiktaalik Dreaming",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 1,
-	"versionBuild": 220831,
+	"versionBuild": 220832,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2686622021",
-	"steamTestLivePublishedFileId": "",
+	"steamTestLivePublishedFileId": "2856515895",
 	"steamVisibility": 0,
 	"folderName": "MoreRealisticWeapons",
-	"revisionNumber": 407887,
-	"snapshotId": 34628,
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
 	"fileSize": -2
 }
