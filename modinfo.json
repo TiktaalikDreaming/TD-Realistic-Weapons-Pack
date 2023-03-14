@@ -1,18 +1,18 @@
 {
 	"name": "TiktaalikDreamings Realistic Weapon Pack",
 	"description": "Intended to add some vaguely more realistic weapons from history instead of the very fantasy cliche things in the game.  \n\nA list of Items is here https://drive.google.com/file/d/1cTkd5ywF-1B9_VwyOHvri-QBNvMNvPp4/view?usp=sharing\n\nMod discord here https://discord.gg/XEUZxZRVF9",
-	"changeNote": "Added a Nemedian warhammer\nAdded Ophir parrying dagger\nRemoved Test Light Arrow change and some old icons\nMinor corrections on Nord Shield textures\nfixed feat_>recipe link on Hyrkanian Bow",
+	"changeNote": "Repack for latest version \nAdded start/end sockets to mark the dangerous bits of weapons",
 	"author": "Tiktaalik Dreaming",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 1,
-	"versionBuild": 221215,
+	"versionBuild": 230214,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2686622021",
 	"steamTestLivePublishedFileId": "2856515895",
 	"steamVisibility": 0,
 	"folderName": "MoreRealisticWeapons",
-	"revisionNumber": 437229,
-	"snapshotId": 35533,
+	"revisionNumber": 469970,
+	"snapshotId": 36602,
 	"fileSize": -2
 }
