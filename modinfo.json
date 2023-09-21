@@ -1,18 +1,18 @@
 {
 	"name": "TiktaalikDreamings Realistic Weapon Pack",
 	"description": "Intended to add some vaguely more realistic weapons from history instead of the very fantasy cliche things in the game.  \n\nA list of Items is here https://drive.google.com/file/d/1cTkd5ywF-1B9_VwyOHvri-QBNvMNvPp4/view?usp=sharing\n\nMod discord here https://discord.gg/XEUZxZRVF9",
-	"changeNote": "Repack for latest version \nAdded start/end sockets to mark the dangerous bits of weapons",
+	"changeNote": "Repack for new devkit",
 	"author": "Tiktaalik Dreaming",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 1,
-	"versionBuild": 230214,
+	"versionMinor": 3,
+	"versionBuild": 2309200,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2686622021",
 	"steamTestLivePublishedFileId": "2856515895",
 	"steamVisibility": 0,
 	"folderName": "MoreRealisticWeapons",
-	"revisionNumber": 469970,
-	"snapshotId": 36602,
+	"revisionNumber": 541658,
+	"snapshotId": 38526,
 	"fileSize": -2
 }
