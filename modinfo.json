@@ -1,18 +1,18 @@
 {
 	"name": "TiktaalikDreamings Realistic Weapon Pack",
 	"description": "Intended to add some vaguely more realistic weapons from history instead of the very fantasy cliche things in the game.  \n\nA list of Items is here https://drive.google.com/file/d/1cTkd5ywF-1B9_VwyOHvri-QBNvMNvPp4/view?usp=sharing\n\nMod discord here https://discord.gg/XEUZxZRVF9",
-	"changeNote": "Recompile and repack for Age of Heroes",
+	"changeNote": "Recompile and repack for Age of Heroes Hotfix 1",
 	"author": "Tiktaalik Dreaming",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 5,
-	"versionBuild": 2410170,
+	"versionBuild": 2411040,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2686622021",
 	"steamTestLivePublishedFileId": "2856515895",
 	"steamVisibility": 0,
 	"folderName": "MoreRealisticWeapons",
-	"revisionNumber": 1043755,
-	"snapshotId": 42715,
+	"revisionNumber": 1077374,
+	"snapshotId": 42944,
 	"fileSize": -2
 }
