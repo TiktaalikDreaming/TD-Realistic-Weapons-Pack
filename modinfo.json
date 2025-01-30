@@ -1,18 +1,18 @@
 {
 	"name": "TiktaalikDreamings Realistic Weapon Pack",
-	"description": "Intended to add some vaguely more realistic weapons from history instead of the very fantasy cliche things in the game.  \n\nA list of Items is here https://drive.google.com/file/d/1cTkd5ywF-1B9_VwyOHvri-QBNvMNvPp4/view?usp=sharing\n\nMod discord here https://discord.gg/XEUZxZRVF9",
-	"changeNote": "Migrate Longswords to thier own moveset.\nMigrate longer spears to a new moveset allowing spear and shield with stab moves only.\nAdd scabbards for ToT users\nAdd some shields with Clan Emblems\nAdd some Argosian weapons",
+	"description": "Intended to add some vaguely more realistic weapons from history instead of the very fantasy cliche things in the game.  \n\nA list of Items is here https://drive.google.com/file/d/1cTkd5ywF-1B9_VwyOHvri-QBNvMNvPp4/view?usp=sharing\n\nMod discord here https://discord.gg/XEUZxZRVF9\n\nThe scabbards (and now ribbons) are intended for use with ToT! Custom or similar mods.  They won't on their own be useful, you would need a mod that allows items marked as weapons to show sheathed as accessories, and for that system to allow overlapping.  See https://steamcommunity.com/sharedfiles/filedetails/?id=2886779102\n\nLongsword Animations are (modified by me for the Conan skeleton) (C) Jakub Kisiel aka Kubold",
+	"changeNote": "Recompile for patched Devkit",
 	"author": "Tiktaalik Dreaming",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 5,
-	"versionBuild": 2412110,
+	"versionBuild": 2501310,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2686622021",
 	"steamTestLivePublishedFileId": "2856515895",
 	"steamVisibility": 0,
 	"folderName": "MoreRealisticWeapons",
-	"revisionNumber": 1077374,
-	"snapshotId": 42944,
+	"revisionNumber": 1166437,
+	"snapshotId": 43454,
 	"fileSize": -2
 }
